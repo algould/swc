@@ -153,4 +153,5 @@ analyze_all<-function(datapattern){
   }
 }
 
+y<-0.5
 
